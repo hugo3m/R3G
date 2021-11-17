@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/">
+  <Age>21​</Age>
+  <Beginner>false​</Beginner>
+  <FirstName>Mael​</FirstName>
+  <Hand>right​</Hand>
+  <Id>33237bb9f04e4d938042927ff22a57fb</Id>
+  <LastName>Laurent​</LastName>
+  <Size>175​</Size>
+  <Weight>60​</Weight>
+</UserData>

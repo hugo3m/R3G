@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c49ce29e596948045b592e4d191716af
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montserrat ExtraLight
+  fontNames:
+  - Montserrat ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8e7c6f361a72ee843887a4b975b038ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
