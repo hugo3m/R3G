@@ -10,8 +10,20 @@ To launch the project, you need the 2019 version of Unity and a gesture sensor s
 
 ## The scenes
 
-The Unity part of R3G consists of three main scenes.
+The Unity part of R3G consists of four main scenes.
 
-# User
+### UsersManagement
 
-This scene allows you to create a user profile. It allows you to record information such as age, weight, height and handiness.
+This scene allows you to create and manage a user profile. It allows you to record information such as age, weight, height and handiness.
+
+### DBManagement
+
+This scene allows you to create and manage the databases. It allosw you to associate a path from your hard drive, a recognition system and a gesture sensor.
+
+### Acquisition
+
+This scene allows the user to create gestures. First, it is necessary to choose a user profile, a gesture sensor and a database. The database contains a list of example gestures for the user and the gestures performed. You can first create a list of example gestures that will be the references of gestures in the database. The user can name these gestures and view them. Then, he can give instructions for example gestures to be performed for himself or another user. The user starts the gesture recording, follows the example gesture, and then can view the recording.
+
+### Demonstration
+
+This scene allows the user to test their recognition system. To do this, the user must first choose a user profile, a recognition system and a database. Then, the sample gestures from the database are displayed on his screen. He can then start the session and perform the gestures. The predictions of the recognition system are displayed in green. At the end of the session, he can see a summary of his session with the predictions made by the recognition system.
