@@ -1,4 +1,4 @@
-### R3G / Unity
+# R3G / Unity
 
 ## The aims of the project
 
