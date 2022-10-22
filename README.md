@@ -1,5 +1,7 @@
 # R3G / Unity
 
+![AcquisitionAvecDirectives](https://user-images.githubusercontent.com/58819009/197337801-9af91cdb-89ce-492a-b058-2c5491a61b16.png)
+
 ## The aims of the project
 
 This repository is the Unity part of the R3G project. The R3G project is a software suite for gesture recognition. This project was carried out by seven students from INSA Rennes during their fourth year. This software suite aims to help an INSA/IRISA doctoral student to develop a gesture recognition system. The Unity part of this project allows the user to create a user profile and a gesture database. It also allows him to test the performance of his recognition system. The project also includes a web application allowing him to explore, annotate the database and train the recognition system.
