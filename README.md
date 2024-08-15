@@ -1,4 +1,4 @@
-# R3G / Unity
+# R3G: [Access the presentation](https://projets-info.insa-rennes.fr/projets/2020/R3G/)
 
 ![AcquisitionAvecDirectives](https://user-images.githubusercontent.com/58819009/197337801-9af91cdb-89ce-492a-b058-2c5491a61b16.png)
 
